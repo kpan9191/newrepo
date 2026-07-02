@@ -7,3 +7,6 @@ else :
         print(i)
 
 #adding a new line from here i am checking how does a branch work and what do i need to do ;-;
+if i is not a :
+  with open("README.md","w") as f:
+      f.write("Hello World")
